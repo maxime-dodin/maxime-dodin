@@ -1,4 +1,4 @@
-<h1><p align="center">Antoine</p> 
+<h1><p align="center">Maxime</p> 
 <p align="center">
     <a href="https://github.com/maxime-dodin">
         <img src="https://gpvc.arturio.dev/maxime-dodin">
