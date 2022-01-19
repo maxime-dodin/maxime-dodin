@@ -1,4 +1,4 @@
-<h1><p align="center">Maxime</p> 
+[<h1><p align="center">Maxime</p> 
 <p align="center">
     <a href="https://github.com/maxime-dodin">
         <img src="https://gpvc.arturio.dev/maxime-dodin">
@@ -11,6 +11,7 @@
     </a>
 </p>
 
+<p align="center">
 <p href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxime-dodin&count_private=true&show_icons=true&theme=kacho_ga" />
 </p>
@@ -18,6 +19,7 @@
 href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-dodin&count_private=true&show_icons=true&theme=kacho_ga&langs_count=8&layout=compact" />
 </p>
+    </p>
 
 <!--
 <h1><p align="center">Antoine</p> 
@@ -168,3 +170,4 @@ href="https://github.com/anuraghazra/convoychat">
     </a>
 </p>
 -->
+](url)
